@@ -1,0 +1,5 @@
+ServiceName: openeuler-reproducible-production-environment
+UserName: chentao
+Email: 1203467115@qq.com
+Role: developer
+TimeLimit: 30
